@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Gollaher</h1>
 <h3 align="center">A Software Engineering Student at BYU</h3>
 
-- 🔭 I’m currently working on [Chess](https://github.com/maxgollaher/chess) and [startup](https://github.com/maxgollaher/startup)
-
-- 🌱 I’m currently learning **Java, JS, and ReactJS**
+- 🌱 I’m currently learning **TypeScript and ReactJS**
 
 - 📫 How to reach me **max.c.gollaher@gmail.com**
 
